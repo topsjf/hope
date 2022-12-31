@@ -1,0 +1,1 @@
+import{u as e}from"./darkmode-acad7ca5.js";import{d as t}from"./framework-838e190a.js";const a=t({name:"NetlifyBadge",props:{alt:{type:String,default:"Deploys by Netlify"}},setup(o){return e(),()=>null}});export{a as N};

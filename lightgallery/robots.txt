@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:
+
+User-agent:*
+Disallow:
+
+Sitemap: https://topsjf.github.io/hope/lightgallery/sitemap.xml
